@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions extracted from the reasons for the foundation and promotion of a Philadelphian Society which were read at the first meeting of the same in Westmorland-House, London / offered to the consideration of all Christians; and now publish'd for the preventing or rectifying of mistakes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56054</idno>
+            <idno type="STC">Wing P3779</idno>
+            <idno type="STC">ESTC R33919</idno>
+            <idno type="EEBO-CITATION">13618634</idno>
+            <idno type="OCLC">ocm 13618634</idno>
+            <idno type="VID">100813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100813)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1043:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions extracted from the reasons for the foundation and promotion of a Philadelphian Society which were read at the first meeting of the same in Westmorland-House, London / offered to the consideration of all Christians; and now publish'd for the preventing or rectifying of mistakes.</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for and sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Philadelphian Society (London, England)</term>
+               <term>Theosophists.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100813:1"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:100813:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>PROPOSITIONS EXTRACTED From the REASONS for the Foundation and Promotion of a <hi>Philadelphian Society:</hi> Which were Read at the Firſt Meeting of the ſame in <hi>Weſt<g ref="char:EOLhyphen"/>morland</hi>-Houſe, <hi>London.</hi>
+            </p>
+            <p>Offered to the Conſideration of All <hi>Chriſtians.</hi>
+            </p>
+            <p>And now Publiſh'd for the Preventing, or Rectifying of Miſtakes.</p>
+            <q>
+               <bibl>
+                  <hi>2 COR. vi. 8.</hi>
+               </bibl>
+               <p>As Deceivers, yet True.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for and Sold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter.</hi> 1697.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ree <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence.</p>
+         </div>
+         <div type="note">
+            <pb facs="tcp:100813:2"/>
+            <!-- PDF PAGE 86 -->
+            <p>
+               <hi>THe</hi> REASONS, <hi>whence theſe Propoſitions are Extracted, may be found in the</hi> Theoſophical Tranſactions <hi>by the</hi> Philadelphian Society, <hi>conſiſting of Memoirs, Conferences, Letters, Diſſertations, In<g ref="char:EOLhyphen"/>quiries,</hi> &amp;c<g ref="char:punc">▪</g> 
+               <hi>For the Advancement of</hi> Piety, <hi>and</hi> Di<g ref="char:EOLhyphen"/>vine Philoſophy. <hi>Number III. For the Months of</hi> May <hi>and</hi> June. pag. 195.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposition">
+            <pb n="3" facs="tcp:100813:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <head>PROPOSITIONS extracted from the <hi>REASONS</hi> for the Foundation and Promotion of a <hi>Philadelphian Society:</hi> Which were read at the Firſt Meeting of the ſame in <hi>Weſt<g ref="char:EOLhyphen"/>morland</hi>-Houſe, <hi>London.</hi>
+            </head>
+            <head type="sub">Offered to the Conſideration of All <hi>Chriſtians.</hi>
+            </head>
+            <p>TO all the Faithful in Chriſt Jeſus, where-ever Diſperſed or Hidden, Grace be unto you: and Peace, Love, and Truth from God our Father, and from the Lord Jeſus. Whom we thank that, for the Glory of his Name, we have been thought by him worthy to ſuffer Reproach: and to bear a Teſtimony for him before this Generation, concerning the Bleſſed Hope of his Appearance, to prepare unto himſelf a Peculiar People, through his Spirit, which may be made like to his glorious Image, in full Sanctification, according to his Will. Who hath deſigned to fulfil his Work in you Throughout, that ye may not fall ſhort of the moſt Excellent Prize of the Firſt Reſurrection: and to revive amidſt you the Apoſtolical Frame of his Church, and amidſt as many as ſhall not put it far from them. This is that which has occaſion'd Satan, who is always the Ac<g ref="char:EOLhyphen"/>cuſer of the Brethren, to rage mightily: and to raiſe
+<pb n="4" facs="tcp:100813:3"/>
+               <!-- PDF PAGE 87 -->many Falſe and Malicious Reports, that ſo the Truth might not be ſeen in the Miſt. Wherefore we have been obliged to Publiſh theſe following Propoſitions, not ſo much for the Vindication of our ſelves, as of the Honour of God, and of the Truth of the Holy Scriptures.</p>
+            <list>
+               <item n="1">I. The Church, or Bride of Chriſt, is to be made conformable to Chriſt throughout, <hi>Rom.</hi> 8, 29-12.2. <hi>Phil.</hi> 3.10.-3.21. 1 <hi>John</hi> 3.1, 2, 3.</item>
+               <item n="2">II. This Conformity is the Adornment of the Lamb's Bride, who is now call'd to make her ſelf Ready, <hi>Iſa.</hi> 61.10, 11. <hi>Rev.</hi> 21.2.</item>
+               <item n="3">III. This Preparation and Adornation cannot be any otherwiſe, but by the Holy Spirit of God, <hi>John</hi> 4.24. <hi>Rom.</hi> 8.11, <hi>Gal.</hi> 4.6. <hi>Iſa.</hi> 44.3. <hi>Joel</hi> 2.28. <hi>Zach.</hi> 4.6.</item>
+               <item n="4">IV. This Spirit is One: and thence the Church muſt be alſo but One. Herein conſiſts the true Un<g ref="char:EOLhyphen"/>divided Unity, and Perfect Uniformity, <hi>Cant.</hi> 6.9. <hi>Eph.</hi> 4.3, 4. 1 <hi>Cor.</hi> 6.17. <hi>Epheſ.</hi> 4.13. <hi>Phil.</hi> 1.27.-2.2.</item>
+               <item n="5">V. This Spirit is Holy: and thence the Church muſt be alſo Holy. Herein conſiſts the Virgin Sanctity of all the Members of this Church, that is to be Redeemed out of the Earth, <hi>Cant.</hi> 4.1, 7. <hi>Rom.</hi> 11.16. <hi>Epheſ.</hi> 1.4.-5.2, 7. <hi>Col.</hi> 1.22. 1 <hi>Pet.</hi> 2.5. <hi>Rev.</hi> 14.4.-20.6.</item>
+               <item n="6">VI. This Spirit is Catholick: and thence the Church muſt be alſo Catholick; according to the moſt ſtrict ſenſe of the Word, in an univerſal Latitude of Love, without any Narrowneſs, Partiality, or Parti<g ref="char:EOLhyphen"/>cularity of Spirit, <hi>Gen.</hi> 1.2.-6.3. <hi>Joel</hi> 2.28. <hi>John</hi> 4.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-25. <hi>Luke</hi> 10, 30-38. <hi>Acts</hi> 10, 11-16. 2 <hi>Cor.</hi> 2.10.</item>
+               <pb n="5" facs="tcp:100813:3"/>
+               <!-- PDF PAGE 87 -->
+               <item n="7">VII. This One, Holy, and Catholick Church is not barely Aſſiſted by an Irradiation from the Spirit of Chriſt, but is Actually and Vitally Informed by it, as the Body is by the Soul, <hi>Rev.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.-11.11.-21, 6.-22, 14. <hi>Rom.</hi> 8.6, 10. 2 <hi>Cor.</hi> 3, 6.-4.10, 11.-5.4. <hi>Eph.</hi> 4.18. <hi>Gal.</hi> 2.20. <hi>Col.</hi> 3.3, 4. <hi>Heb.</hi> 7.16.</item>
+               <item n="8">VIII. This Vital Operation, and Information being at preſent but in a very languid and faint Degree, there muſt be a Reſuſcitation and Reſurrection of the ſame, in order to the Glorious Kingdom of Chriſt, <hi>Luk.</hi> 18.8. <hi>Rev.</hi> 20.5, 6. <hi>Acts</hi> 15.16, 17. <hi>Ezek.</hi> 37.1-15. <hi>Rev.</hi> 11.1-12.</item>
+               <item n="9">IX. The Reſuſcitation of this Spirit is to be Waited for, 1 <hi>Cor.</hi> 12.31. <hi>Iſa.</hi> 40.31.-30. 18.-49, 23. <hi>Rom.</hi> 2, 3. <hi>Mark</hi> 13.33. <hi>Rev.</hi> 3.3.-16, 15. <hi>Eph.</hi> 6.18. com<g ref="char:EOLhyphen"/>pared with verſ. 13.</item>
+               <item n="10">X. It is to be Waited for not only Seperately, but alſo Jointly, <hi>Acts</hi> 1.14.-2.1, 46.</item>
+               <item n="11">XI. Such a Waiting is in obedience to our dear Lord and Maſter's Command, <hi>John</hi> 14.16. <hi>Mat.</hi> 25.13. <hi>Mark</hi> 13.37. <hi>Mat.</hi> 18.20. [This is alſo Con<g ref="char:EOLhyphen"/>firm'd from the Practice of Chriſt and his Apoſtles: and that too, while they did not Recede from the Publick Temple-Worſhip.]</item>
+               <item n="12">XII. It muſt be with theſe Qualifications; 1. Hu<g ref="char:EOLhyphen"/>mility. 2. Reſignation. 3. Perſeverance. (1.) <hi>Ja.</hi> 4.10. <hi>Rev.</hi> 3.17, 18. (2.) <hi>Rom.</hi> 8.27. <hi>Col.</hi> 1.9. (3.) <hi>Mat.</hi> 10.22-24. <hi>Heb.</hi> 6.14. <hi>Rev.</hi> 2.26.</item>
+               <item n="13">XIII. It muſt be for theſe ends, (1ſt) Power from on High. (2dly) Wiſdom from Above. (3dly) Divine Learning and Theoſophy. (1) <hi>Luke</hi> 24.49. 1 <hi>Cor.</hi> 5.4. 2 <hi>Tim.</hi> 1.7. (2) <hi>Luke</hi> 21.15. <hi>Col.</hi> 2.3.-4.5. 1 <hi>Cor.</hi> 12.8. (3) <hi>Epheſ.</hi> 3.4. <hi>Phil.</hi> 3.8. 2 <hi>Pet.</hi> 3.18.</item>
+               <pb n="6" facs="tcp:100813:4"/>
+               <!-- PDF PAGE 88 -->
+               <item n="14">XIV. It is lawful to Wait upon God for Power from on High, or the Return of the Miraculous Deeds, by which his Kingdom, that has been hither<g ref="char:EOLhyphen"/>to withheld, may come to be witneſſed and proclaim<g ref="char:EOLhyphen"/>ed, <hi>Luke</hi> 24.49.</item>
+               <item n="15">XV. It is lawful to Wait and Pray for the Spirit of Wiſdom and Revelation, deſcending from the Throne of God, <hi>Ja.</hi> 1.5. <hi>Col.</hi> 1.9.-3.16.</item>
+               <item n="16">XVI. This is neceſſarily required in order to a right Government in all Spiritual Affairs, <hi>Acts</hi> 6.3. 2 <hi>Tim.</hi> 3.15. <hi>Iſa.</hi> 28 26. to the end.</item>
+               <item n="17">XVII. It is lawful to Wait and Pray for Divine Learning, and to prefer it above that which is Human, <hi>Phil.</hi> 1.9. <hi>Hab.</hi> 2.14. <hi>Iſa.</hi> 28.9.</item>
+               <item n="18">XVIII. This Secret Learning vaſtly exceeds the Wit and Induſtry of the moſt ſagacious Inquirers, <hi>Job</hi> 28.7. 1 <hi>Cor.</hi> 2.11. <hi>Pſal.</hi> 25.12.</item>
+               <item n="19">XIX. It ſhall be given of the Lord to all the Mem<g ref="char:EOLhyphen"/>bers of this Church, <hi>Jer.</hi> 31.34. <hi>Heb.</hi> 8.11. <hi>Iſa.</hi> 4, 5. <hi>Epheſ.</hi> 4.13.</item>
+               <item n="20">
+                  <p>XX. God is ſtirring up ſome Perſons in ſeveral Countries, to Wait in Faith and Prayer for theſe Ends, and with theſe Qualifications, till ſuch a Pure Church may ariſe.</p>
+                  <p>[<hi>Germany, Holland, Switzerland, France, Scotland</hi> and <hi>England</hi> are Witneſſes to the Truth of this Pro<g ref="char:EOLhyphen"/>poſition.]</p>
+               </item>
+               <item n="21">XXI. To which a Proſpect of the Preſent State of <hi>Chriſtendom</hi> has very much conduced, <hi>Mat.</hi> 24. <hi>Mark</hi> 13. <hi>Luke</hi> 17. <hi>John</hi> 15.16, 17. <hi>Dan.</hi> 7.8. and moſt of the Prophets.</item>
+               <item n="22">XXII. The many Diviſions and Sects of Chriſtia<g ref="char:EOLhyphen"/>nity, all pretending to be the True Church, can not be otherwiſe cured but by the Effuſion of the Spirit,
+<pb n="7" facs="tcp:100813:4"/>
+                  <!-- PDF PAGE 88 -->
+                  <hi>Lam.</hi> 2.13. <hi>Jeremiah</hi> 30.17.-33.6. <hi>Ezekiel</hi> 11.19. <hi>Zeph.</hi> 3.9.</item>
+               <item n="23">
+                  <p>XXIII. The Inſufficiency of a<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> other Means and Methods have been hitherto experimentally Prov'd.</p>
+                  <list>
+                     <item>1. Of Human Learning.</item>
+                     <item>2. Of Policy.</item>
+                     <item>3. Of Power.</item>
+                  </list>
+
+                  <p>
+                     <hi>Particular Proofs hereof are frequently extant in Hi<g ref="char:EOLhyphen"/>ſtory, both Eccleſiaſtical and Civil.</hi>
+                  </p>
+               </item>
+               <item n="25">XXV. Neither of which ſeperately, or all con<g ref="char:EOLhyphen"/>junctly, is able to heal the Diviſions, ſupply the Im<g ref="char:EOLhyphen"/>perfections, or remove the Corruptions of any one Body of Chriſtians. As, 1. In the Church of <hi>Rome.</hi> 2. In the Lutheran Church. 3. In the Calviniſtick Reformation. 4. The Church of <hi>England.</hi>
+               </item>
+               <item n="26">XXVI. The Conſideration of the Inſufficiency of all Human Means, with a deep Senſe that <hi>Charity</hi> is waxen cold, and that <hi>Faith</hi> is hardly to be found, muſt needs be a good Motive to excite us to ſeek out and wait upon thoſe Means, which are Sufficient; and eſpecially to endeavour to keep warm the Former, and to ſtrengthen the Latter, which is ready to dye, <hi>Gal.</hi> 1.16. <hi>Zach.</hi> 2.13-4.6. <hi>Dan.</hi> 2.34, 45.</item>
+               <item n="27">XXVII. Theſe Means are not Confin'd to a Party, but are extended to All; even as far as the Holy Ca<g ref="char:EOLhyphen"/>tholick Spirit reacheth, which paſſeth and goeth through all things: And by the Effuſion of this Spi<g ref="char:EOLhyphen"/>rit, All ſhall be taught of God, <hi>Iſa.</hi> 54.13. <hi>John</hi> 6.45.</item>
+               <item n="28">XXVIII. The Oneneſs, the Holineſs, and the Catho<g ref="char:EOLhyphen"/>lickneſs or Univerſality of this Spirit, will not ſuffer us to Appropriate it to Any, and therefore not to
+<pb n="8" facs="tcp:100813:5"/>
+                  <!-- PDF PAGE 89 -->our own Society, both With reſpect to Ordinary and Extraordinary Operations of the ſame, <hi>Gal.</hi> 3.26, 27, 28. <hi>Col.</hi> 3.11. <hi>Rom.</hi> 10.12. 1 <hi>Cor.</hi> 12.13.</item>
+               <item n="29">XXIX. The Deſign of our Aſſembling is not to<note n="*" place="margin">In Purſuance of this Propoſition, it has been our Cuſtom to adviſe Perſons, when Inter<g ref="char:EOLhyphen"/>rogated, to Keep ſtill in the Bond of Peace in the Viſible Unity of the Church: And even our Aſſemblies have been very far from being Grounded on <hi>Sectarian</hi> Principles, as we are able to Demonſtrate.</note> Divide, but to Unite; not to ſet up for a New Religion, or Church, but to keep Warm the Spirit of Love towards thoſe of all Religions and Churches, and to endeavour after the only Method of Re<g ref="char:EOLhyphen"/>conciling them into a perfect and laſting Unity, by the Power of the Holy Ghoſt, <hi>Iſa.</hi> 58.12.</item>
+               <item n="30">XXX. Catholick Love, and Apoſtolical Faith, are the two Grand Pillars of our Society: and the main De<g ref="char:EOLhyphen"/>ſigns, which we labour, Watch and Pray for, both ſeperately by our ſelves, and jointly in our Aſſem<g ref="char:EOLhyphen"/>blies, 1 <hi>Tim.</hi> 1.14. 2 <hi>Tim.</hi> 1.13. <hi>Eph.</hi> 6.23. <hi>Gal.</hi> 5.6. 1 <hi>Theſ.</hi> 5.8.</item>
+               <item n="31">XXXI. The Primary Object of the Apoſtolical Faith, is the Revelation of the Kingdom of God with<g ref="char:EOLhyphen"/>in the Soul, <hi>Luk.</hi> 17.21. 1 <hi>Cor.</hi> 4.20. <hi>Col.</hi> 1.13.</item>
+               <item n="32">XXXII. This Internal Revelation of it is by Chriſt the Soveraign Head of the Church, 1 <hi>Cor.</hi> 12.5, 12, 27, 28. <hi>Heb.</hi> 1.2.</item>
+               <item n="33">XXXIII. Which as it is diligently to be waited upon, ſo is it to be held faſt, ſo far as it ſhall be received; a Loſs herein or Relapſe, being extreamly dangerous, 2 <hi>Tim.</hi> 2.13.14. <hi>Heb.</hi> 3.6.-4.14.-10.23. <hi>Rev.</hi> 2.4, 5, 11, 13, 25-3.2, 11.</item>
+               <pb n="9" facs="tcp:100813:5"/>
+               <!-- PDF PAGE 89 -->
+               <item n="34">XXXIV. Such a Revelation of the Kingdom of God in the Soul, will conſtitute a Virgin Church, repre<g ref="char:EOLhyphen"/>ſentative of its Head in, 1. in Chriſt-like Holineſs, 2. Truth. 3. Power. (1) <hi>Rev.</hi> 3.7. <hi>Lev.</hi> 11.44. <hi>Joel</hi> 3.17. <hi>Obad.</hi> ver. 17. 1 <hi>Pet.</hi> 2.3. <hi>Rev.</hi> 20 6. (2) <hi>Phil.</hi> 4.8. 1 <hi>John</hi> 5 20. 3 <hi>Joh.</hi> ver. 3. (3) <hi>Acts</hi> 8.10. 1 <hi>Cor.</hi> 1.24. 2 <hi>Theſ.</hi> 1.17.</item>
+               <item n="35">XXXV. The Members of this Church are to be A<g ref="char:EOLhyphen"/>nointed with Chriſt, and Conſecrated, 1. into the Prieſtly Order; 2. into the Prophetical; 3. into the Royal and Davidical. (1) 1 <hi>Pet.</hi> 2.9. <hi>Rev.</hi> 1.6.5.10.-20, 6. (2) 1 <hi>Cor.</hi> 14.31. <hi>Rev.</hi> 11.10.-18.20. (3) 1 <hi>Cor.</hi> 4.8. <hi>Rev.</hi> 5.10.-20.6. <hi>Zach.</hi> 12.8.</item>
+               <item n="36">XXXVI. The Model thereof we do preſs after as Attainable, and do not therefore reſt in what we have attained, <hi>Phil.</hi> 3.12, 13, 14.</item>
+               <item n="37">XXXVII. The Perfection of this Model muſt be Gradual, and the Beginnings therefore of it conſiſtent with a State of Weakneſs and Imperfection, <hi>Heb.</hi> 6.1, 2. <hi>Acts</hi> 20.32. <hi>Jude</hi> ver. 20.</item>
+               <item n="38">XXXVIII. The Perſonal Appearance of Chriſt from Heaven is not to be, till after there be ſuch a <hi>Phi<g ref="char:EOLhyphen"/>ladelphian Church</hi> on Earth to receive him, <hi>Rev.</hi> 3.11. compared with 22.7, 17.</item>
+               <item n="39">XXXIX. Our Deſign is Apoſtolical; abating only from what was of a Temporary Conſtitution, or fitted to ſuch a Particular Church, <hi>Acts</hi> 1.26.-4, 34, 35.-15.13, to 30. 1 <hi>Cor.</hi> 7.25.</item>
+               <item n="40">XL. The Will of God muſt be done in Earth, as in Heaven, by the Inſpiration of his Spirit, <hi>Matth.</hi> 6.10. <hi>Heb.</hi> 10.7.</item>
+               <item n="41">XLI. The Kingdom of God muſt come on Earth, as
+<pb n="10" facs="tcp:100813:6"/>
+                  <!-- PDF PAGE 90 -->it is in Heaven, by Virtue of the ſame Inſpirati <hi>Dan.</hi> 2.44.-7, 27.</item>
+               <item n="42">XLII. We receive the Holy Scriptures of the Old and New Teſtament as the Foundation of our Hope and Faith, 2 <hi>Tim.</hi> 3.16. 2 <hi>Pet.</hi> 1.19.</item>
+               <item n="43">XLIII. There are ſome Promiſes and Propheſies in them, which have not had yet their Full Com<g ref="char:EOLhyphen"/>pletion, <hi>Rev.</hi> 17.17. <hi>Luk.</hi> 22.16.</item>
+               <item n="44">XLIV. The Civil Government is an Ordinance of God, as he is Supream Governour of the World, and is accordingly to be ſubmitted to, <hi>Rom.</hi> 13.1. 1 <hi>Tim.</hi> 2.2.</item>
+            </list>
+            <p>There was written <hi>An Eſſay</hi> of <hi>Revelation</hi> in the Year 1695. by a Member of Our Society, for the Re<g ref="char:EOLhyphen"/>ſolving of this Queſtion, <hi>Whether Revelation, or the Immediate Communication of Divine Knowledge, be Now Attainable?</hi> In which the <hi>Poſſibility, Expediency,</hi> and <hi>Neceſſity</hi> of <hi>Revelation,</hi> both Private and Pub<g ref="char:EOLhyphen"/>lick, in this Preſent, and Approaching, Period of the Church is at large Handled. Which proceeds upon theſe <hi>Poſtulata,</hi> viz. <hi>I.</hi> That were ever one thing is United with another, there muſt be ſome <hi>Likeneſs</hi> betwixt 'em which is the Cauſe of this Union. <hi>II.</hi> That by ſo much the more any thing has of Like<g ref="char:EOLhyphen"/>neſs to another, it may be the more firmly United to it. <hi>Ete contra. III.</hi> That where-ever two Things are ſo <hi>
+                  <g ref="char:V">Ʋ</g>nlike,</hi> that they cant be of themſelves United together, they muſt be United by ſomething in which they both Agree. <hi>IV.</hi> That the Works of God are Always in Juſt Proportion. <hi>V.</hi> That the Scriptures
+<pb n="11" facs="tcp:100813:6"/>
+               <!-- PDF PAGE 90 -->have been Delivered down to us for the Reveal'd Will of God. <hi>VI.</hi> That a Thing may arrive to that State, for which it was Created, and Deſign'd by God. <hi>VII.</hi> That Happineſs is Within. This Trea<g ref="char:EOLhyphen"/>tiſe is very large; as taking in great Part of the Scrip<g ref="char:EOLhyphen"/>tures. Whence the Publication of it has been hither<g ref="char:EOLhyphen"/>to Defer'd. But it is now deſign'd to be Shortly put into the Preſs, if the Bookſeller ſhall be encourag'd to undertake it.</p>
+            <p>
+               <hi>Philadelphian Conſtitutions,</hi> Auguſt 23. 1697. Which were Read at Two Meeting of the <hi>Phila<g ref="char:EOLhyphen"/>delphian Society</hi> in <hi>Weſtmorland</hi>-Houſe, <hi>London,</hi> will be ſhortly alſo Publiſh'd.</p>
+            <p>
+               <hi>Theoſophical Tranſactions</hi> by the Philadelphian Society, <hi>&amp;c.</hi> Number IV. For the Month of <hi>July,</hi> 1697. are Now in the Preſs. And the Reſt of the Months (having been hitherto greatly Retarded) are deſign'd to follow with all Expedition.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
